@@ -1,0 +1,3 @@
+2,What is the capital of India,Hyderabad,Bangalore,Delhi,Tamilnadu,Delhi
+1,What is the value of PI,3.14,2.15,1.14,1.02,3.14
+3,Who is the father of Computer,Charles Babbage,John Straustop,Elon Musk,Vinnay,Charles Babbage
