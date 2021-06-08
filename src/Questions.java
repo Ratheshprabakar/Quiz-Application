@@ -31,8 +31,8 @@ public void addQuestionToDB() {
 
 			// Step 2 Establish the connection with the database with user and password
 			con = DriverManager.getConnection(
-					"jdbc:mysql://localhost:3306/quiz_app?autoReconnect=true&useSSL=false", "root",
-					"Onebill@2020");
+					"jdbc:mysql://localhost:3306/quiz_app?autoReconnect=true&useSSL=false", "username",
+					"password");
 
 			// Step 3 Issuing Query
 			String query = "insert into quiz_questions values (?,?,?,?,?,?,?)";
